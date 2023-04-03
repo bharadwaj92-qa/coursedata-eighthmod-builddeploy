@@ -1,0 +1,14 @@
+.card {
+    width: 500px;
+    border-radius: 5%;
+    background: #051258b0;
+    color: #fff;
+    margin-left: 3%;
+    height: 350px;
+    margin-top: 2%;
+}
+
+.cardtext {
+    text-align: left;
+    font-size: 15;
+}
